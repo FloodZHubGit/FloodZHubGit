@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Three.js, R3F, Blender**
 
-- 👨‍💻 Some of my projects (I love a lot of projects) are available at [https://portfolio.floodz.fr](https://portfolio.floodz.fr)
+- 👨‍💻 Some of my projects (I have a lot of projects) are available at [https://portfolio.floodz.fr](https://portfolio.floodz.fr)
 
 - 📫 How to reach me **florentin.dekneudt@gmail.com**
 
