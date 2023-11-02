@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently studying at **EPSI Arras**
 
-- 🌱 I’m currently learning **Three.js, R3F, Blender**
+- 🌱 I’m currently learning **Three.js, R3F, Blender and Svelte**
 
-- 👨‍💻 Some of my projects (I have a lot of projects) are available at [https://portfolio.floodz.fr](https://portfolio.floodz.fr)
+- 👨‍💻 Some of my projects are available at [https://portfolio.floodz.fr](https://portfolio.floodz.fr)
 
-- 📫 How to reach me **florentin.dekneudt@gmail.com**
+- 📫 Reach me at **florentin.dekneudt@gmail.com**
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
@@ -85,7 +85,8 @@
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/800px-Three.js_Icon.svg.png" alt="linux" width="40" height="40"/>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="linux" width="40" height="40"/>
+   
 </p>
    
 
