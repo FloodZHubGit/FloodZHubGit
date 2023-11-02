@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floodzhubgit&label=Profile%20views&color=0e75b6&style=flat" alt="floodzhubgit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=floodzhubgit" alt="floodzhubgit" /></a> </p>
-
 - 🔭 I’m currently studying at **EPSI Arras**
 
 - 🌱 I’m currently learning **Three.js, R3F, Blender**
